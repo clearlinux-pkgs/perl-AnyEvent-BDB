@@ -1,0 +1,4 @@
+1.1
+perl(AnyEvent)
+perl(BDB)
+perl(common::sense)
