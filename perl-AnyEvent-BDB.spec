@@ -4,7 +4,7 @@
 #
 Name     : perl-AnyEvent-BDB
 Version  : 1.1
-Release  : 8
+Release  : 9
 URL      : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/AnyEvent-BDB-1.1.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/AnyEvent-BDB-1.1.tar.gz
 Summary  : No detailed summary available
