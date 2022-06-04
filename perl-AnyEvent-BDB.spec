@@ -4,7 +4,7 @@
 #
 Name     : perl-AnyEvent-BDB
 Version  : 1.1
-Release  : 10
+Release  : 11
 URL      : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/AnyEvent-BDB-1.1.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/AnyEvent-BDB-1.1.tar.gz
 Summary  : No detailed summary available
@@ -104,4 +104,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/AnyEvent/BDB.pm
+/usr/lib/perl5/*
